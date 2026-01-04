@@ -23,7 +23,7 @@
    * <img src="https://cdn-icons-png.flaticon.com/512/1691/1691948.png" width="16" height="16" alt="ovh"> RHEX | Random HEX
    * <img src="https://cdn-icons-png.flaticon.com/512/4337/4337972.png" width="16" height="16" alt="ovh"> STOMP | Bypass chk_captcha
    * <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-bullying-2557797-2152371.png" width="16" height="16" alt="stress"> STRESS | Send HTTP Packet With High Byte 
-   * <img src="https://pbs.twimg.com/profile_images/1351562987224641544/IKb4q_yd_400x400.jpg" width="16" height="16" alt="dyn"> DYN | A New Method With Random SubDomain
+   * <img src="https://cdn.worldvectorlogo.com/logos/dyndns.svg" width="16" height="16" alt="dyn"> DYN | A New Method With Random SubDomain
    * <img src="https://cdn-icons-png.flaticon.com/512/6991/6991643.png" width="16" height="16" alt="downloader"> DOWNLOADER | A New Method of Reading data slowly
    * <img src="https://cdn2.iconfinder.com/data/icons/poison-and-venom-fill/160/loris2-512.png" width="16" height="16" alt="slow"> SLOW | Slowloris Old Method of DDoS
    * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-how-work-icon.png" width="16" height="16" alt="head"> HEAD | https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD
@@ -49,7 +49,7 @@
   * <img src="https://raw.githubusercontent.com/kgretzky/pwndrop/master/media/pwndrop-logo-512.png" width="16" height="16" alt="tcp"> TCP | TCP Flood Bypass
   * <img src="https://styles.redditmedia.com/t5_2rxmiq/styles/profileIcon_snoob94cdb09-c26c-4c24-bd0c-66238623cc22-headshot.png" width="16" height="16" alt="udp"> UDP | UDP Flood Bypass
   * <img src="https://cdn-icons-png.flaticon.com/512/1918/1918576.png" width="16" height="16" alt="syn"> SYN | SYN Flood
-  * <img src="https://static-00.iconduck.com/assets.00/ovh-icon-2048x2048-l4c3izvg.png" width="16" height="16" alt="ovh"> OVH-UDP | UDP flood with random HTTP headers and binary payload to bypass OVH and WAFs.
+  * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | UDP flood with random HTTP headers and binary payload to bypass OVH and WAFs.
   * <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="16" height="16" alt="cps"> CPS | Open and close connections with proxy
   * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | Icmp echo request flood (Layer3)
   * <img src="https://s6.uupload.ir/files/1059643_g8hp.png" width="16" height="16" alt="connection"> CONNECTION | Open connection alive with proxy
